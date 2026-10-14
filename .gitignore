@@ -1,0 +1,11 @@
+# Build output (also holds the miniaudio download that FetchContent fetches)
+build/
+
+# Whisper models: ggml-small.bin is 487 MB, over GitHub's 100 MB per-file limit
+models/*.bin
+
+# Editor and OS clutter
+.vscode/
+.idea/
+*.swp
+.DS_Store
