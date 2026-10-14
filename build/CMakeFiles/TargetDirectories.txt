@@ -1,3 +1,0 @@
-/home/roe/Projects/Python/voice_recognition/build/CMakeFiles/voice_stt.dir
-/home/roe/Projects/Python/voice_recognition/build/CMakeFiles/edit_cache.dir
-/home/roe/Projects/Python/voice_recognition/build/CMakeFiles/rebuild_cache.dir
